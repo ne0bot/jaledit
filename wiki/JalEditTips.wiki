@@ -1,0 +1,8 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Here are some tips that would help you using jaledit
+
+= Tips =
+* Ctrl-Enter opens file at cursor
